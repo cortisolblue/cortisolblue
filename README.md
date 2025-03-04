@@ -22,10 +22,11 @@
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 
 <h3> / about me /</h3>
-- 🎓 passed my **CompTIA Security+**
-- ⭐ currently working on **OSCP PEN 200**
-- 💀 mostly working on **ricing Arch**
-- 👾 a **student** working his way around things
+
+- 🎓 passed my **CompTIA Security+**<br />
+- ⭐ currently working on **OSCP PEN 200**<br />
+- 💀 mostly working on **ricing Arch**<br />
+- 👾 a **student** working his way around things<br />
   
 <h3> / tech & tools / </h3>
   
