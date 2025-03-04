@@ -21,35 +21,19 @@
 
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 
-<h2> / about me /</h2>
-  
-- ⭐ currently working on **web-development**
-- 💀 mostly working on **private repositories**
+<h3> / about me /</h3>
+- 🎓 passed my **CompTIA Security+**
+- ⭐ currently working on **OSCP PEN 200**
+- 💀 mostly working on **ricing Arch**
 - 👾 a **student** working his way around things
   
-<h2> / current skills / </h2>
+<h3> / tech & tools / </h3>
   
-- <h4> languages </h4>
-  <img src = "https://bashlogo.com/img/symbol/png/full_colored_dark.png" alt = "js" />
-  <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
-  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
-  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
-  
-  - <h5> currently learning </h5>
-    <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "c#" />
-    <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
-  
-- <h4> frameworks & libraries </h4>
-  <img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
-  <img src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "expressjs" />
-  <img src = "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt = "expo" />
-  <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap5" />
-  
-- <h4> designing tools </h4>
-  <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
-  <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
-  <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
-  
+  <img src = "https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="40" height="40" alt = "bash" />
+  <img src = "https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg" width="40" height="40" alt = "python" />
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg" width="40" height="40" alt = "arch" />
+  <img src = "https://code.hyprland.org/hyprwm/hyprland-website/raw/commit/00f167e7b888e356aac09bd5aaa513cccc69b553/src/lib/images/logos/hyprland-color.svg" width="40" height="40" alt = "hyprland" />
+
   </br></br>
   
 <div align="right">
