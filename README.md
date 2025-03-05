@@ -34,6 +34,7 @@
   <img src = "https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg" width="40" height="40" alt = "python" />
   <img src = "https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg" width="40" height="40" alt = "arch" />
   <img src = "https://code.hyprland.org/hyprwm/hyprland-website/raw/commit/00f167e7b888e356aac09bd5aaa513cccc69b553/src/lib/images/logos/hyprland-color.svg" width="40" height="40" alt = "hyprland" />
+  <img src = "https://github.com/cortisolblue/cortisolblue/blob/main/lunarvim.png" width="40" height="40" alt = "hyprland" />
 
   </br></br>
   
